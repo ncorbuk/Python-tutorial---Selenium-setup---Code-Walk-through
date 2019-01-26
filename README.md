@@ -1,7 +1,6 @@
 # Python Tutorial - || Beginner || Python & Selenium setup || Code Walk-through ||
 
 ## Code Walk-through & Learning resources links
-
 **YouTube tutorial: **
 
 **For python tutorials: https://bit.ly/2U58Lt9**
